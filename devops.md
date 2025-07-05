@@ -35,13 +35,9 @@ This document provides interview questions, answers, and detailed explanations r
 **Which practice area of DevOps focuses on creating and maintaining a stable and safe environment where your people can learn, share, experiment, succeed, and even fail?**
 
 * [ ] Process
-* [ ] Culture
+* [x] Culture
 * [ ] Site Reliability Engineering
 * [ ] Infrastructure as Code
-
-**Answer**
-
-* [x] Culture
 
 **Explanation**
 
